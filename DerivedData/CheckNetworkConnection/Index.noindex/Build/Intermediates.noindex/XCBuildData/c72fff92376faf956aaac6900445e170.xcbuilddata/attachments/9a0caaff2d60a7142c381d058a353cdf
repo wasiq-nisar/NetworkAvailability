@@ -1,0 +1,24 @@
+{
+  "" : {
+    "dependencies" : "/Users/muhammadwasiq/Desktop/Wasiq/CheckNetworkConnection/DerivedData/CheckNetworkConnection/Index.noindex/Build/Intermediates.noindex/CheckNetworkConnection.build/Debug-iphonesimulator/CheckNetworkConnection.build/Objects-normal/x86_64/CheckNetworkConnection-master.d",
+    "diagnostics" : "/Users/muhammadwasiq/Desktop/Wasiq/CheckNetworkConnection/DerivedData/CheckNetworkConnection/Index.noindex/Build/Intermediates.noindex/CheckNetworkConnection.build/Debug-iphonesimulator/CheckNetworkConnection.build/Objects-normal/x86_64/CheckNetworkConnection-master.dia",
+    "emit-module-dependencies" : "/Users/muhammadwasiq/Desktop/Wasiq/CheckNetworkConnection/DerivedData/CheckNetworkConnection/Index.noindex/Build/Intermediates.noindex/CheckNetworkConnection.build/Debug-iphonesimulator/CheckNetworkConnection.build/Objects-normal/x86_64/CheckNetworkConnection-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/muhammadwasiq/Desktop/Wasiq/CheckNetworkConnection/DerivedData/CheckNetworkConnection/Index.noindex/Build/Intermediates.noindex/CheckNetworkConnection.build/Debug-iphonesimulator/CheckNetworkConnection.build/Objects-normal/x86_64/CheckNetworkConnection-master-emit-module.dia",
+    "swift-dependencies" : "/Users/muhammadwasiq/Desktop/Wasiq/CheckNetworkConnection/DerivedData/CheckNetworkConnection/Index.noindex/Build/Intermediates.noindex/CheckNetworkConnection.build/Debug-iphonesimulator/CheckNetworkConnection.build/Objects-normal/x86_64/CheckNetworkConnection-master.swiftdeps"
+  },
+  "/Users/muhammadwasiq/Desktop/Wasiq/CheckNetworkConnection/CheckNetworkConnection/AppDelegate.swift" : {
+
+  },
+  "/Users/muhammadwasiq/Desktop/Wasiq/CheckNetworkConnection/CheckNetworkConnection/NetworkMonitor.swift" : {
+
+  },
+  "/Users/muhammadwasiq/Desktop/Wasiq/CheckNetworkConnection/CheckNetworkConnection/SceneDelegate.swift" : {
+
+  },
+  "/Users/muhammadwasiq/Desktop/Wasiq/CheckNetworkConnection/CheckNetworkConnection/ViewController.swift" : {
+
+  },
+  "/Users/muhammadwasiq/Desktop/Wasiq/CheckNetworkConnection/DerivedData/CheckNetworkConnection/Index.noindex/Build/Intermediates.noindex/CheckNetworkConnection.build/Debug-iphonesimulator/CheckNetworkConnection.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+
+  }
+}

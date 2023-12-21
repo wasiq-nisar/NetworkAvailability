@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+Target 'CheckNetworkConnection' in project 'CheckNetworkConnection' (no dependencies)
+Target 'CheckNetworkConnection' in project 'CheckNetworkConnection' (no dependencies)
